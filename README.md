@@ -1,4 +1,4 @@
-##BLM4522 - Ağ Tabanlı Paralel Dağıtım Sistemleri Final Projesi
+## BLM4522 - Ağ Tabanlı Paralel Dağıtım Sistemleri Final Projesi
 
 Bu repo, Ağ Tabanlı Paralel Sistemler dersi final projesi kapsamında oluşturulmuştur. 
 
