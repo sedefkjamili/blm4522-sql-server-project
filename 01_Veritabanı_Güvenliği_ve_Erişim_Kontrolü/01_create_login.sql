@@ -1,0 +1,1 @@
+CREATE LOGIN ElifLogin WITH PASSWORD = 'Elif123!';

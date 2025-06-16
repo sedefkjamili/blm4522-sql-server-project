@@ -1,0 +1,7 @@
+USE Northwind;
+GO
+CREATE DATABASE AUDIT SPECIFICATION ElifAuditSpec
+FOR SERVER AUDIT ElifAudit
+ADD (SELECT ON OBJECT::dbo.MusteriListesi BY ElifUser),
+ADD (UPDATE ON OBJECT::dbo.MusteriListesi BY ElifUser)
+WITH (STATE = ON);

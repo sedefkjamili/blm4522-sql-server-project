@@ -1,0 +1,6 @@
+CREATE SERVER AUDIT ElifAudit
+TO FILE (
+    FILEPATH = 'C:\AuditLogs\'
+);
+ALTER SERVER AUDIT ElifAudit
+WITH (STATE = ON);

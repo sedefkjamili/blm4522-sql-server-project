@@ -1,0 +1,1 @@
+SELECT * FROM Northwind_Kurtarildi.dbo.TemizMusteriler;
