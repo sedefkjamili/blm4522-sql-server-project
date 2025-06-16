@@ -1,0 +1,1 @@
+ALTER DATABASE Northwind_Principal SET PARTNER FAILOVER;

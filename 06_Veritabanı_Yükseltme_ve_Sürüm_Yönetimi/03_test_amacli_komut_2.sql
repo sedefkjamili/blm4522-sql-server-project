@@ -1,0 +1,1 @@
+ALTER TABLE Customers ADD TestKolonu NVARCHAR(50);
