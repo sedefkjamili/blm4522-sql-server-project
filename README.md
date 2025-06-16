@@ -10,4 +10,5 @@ Bu projede SQL Server ortamında veri güvenliği, yedekleme, performans, ETL ve
 - Kodlar
 
 ## Videolar
-1. [Tum Videolara ulaşmak için]([(https://drive.google.com/drive/folders/1Wc_0mbrGtNRz_Y092A0haqRybadre5-L?usp=sharing )]
+[Tüm videolara ulaşmak için](https://drive.google.com/drive/folders/1Wc_0mbrGtNRz_Y092A0haqRybadre5-L?usp=sharing)
+
