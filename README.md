@@ -1,8 +1,9 @@
 ## BLM4522 - Ağ Tabanlı Paralel Dağıtım Sistemleri Final Projesi
 
 Bu repo, Ağ Tabanlı Paralel Sistemler dersi final projesi kapsamında oluşturulmuştur. 
-
-Bu projede SQL Server ortamında veri güvenliği, yedekleme, performans, ETL ve sürüm yönetimi uygulamaları yapılmıştır. Her başlık için ayrı ayrı video anlatımlar hazırlanmıştır.
+Projede Microsoft SQL Server üzerinde Northwind örnek veritabanı kullanılmıştır. 
+Bu veritabanı üzerinde güvenlik, ETL, yedekleme, performans ve sürüm yönetimi uygulamaları gerçekleştirilmiştir. 
+TemizMusteriler gibi ek tablolar oluşturulmuş, kullanıcı yetkileri atanmış ve yedekleme senaryoları test edilmiştir.
 
 ## İçerik
 - Final PDF Raporu
